@@ -1,2 +1,2 @@
 # java
-java ainda não pontro
+java ainda não pronto, falta o loop
